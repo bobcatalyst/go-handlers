@@ -1,4 +1,4 @@
-module gituhb.com/bobcatalyst/go-handlers
+module github.com/bobcatalyst/go-handlers
 
 go 1.24
 
